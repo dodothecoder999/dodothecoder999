@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Saniya Koyal<br><br><br>🎓 BE Data Science Student (2nd Year) at Anjuman-I-Islam's Kalsekar Technical Campus<br><br>💻 Passionate about Data Science, Machine Learning, and Data Analytics<br><br>🌱 Currently learning Python, SQL, Machine Learning, and Data Visualization<br><br>🔭 Working on academic and personal Data Science projects<br><br>🎯 Seeking internship opportunities to gain industry experience<br><br>📫 Email: saniyakoyal2006@gmail.com<br><br>💼 LinkedIn: linkedin.com/in/saniya-koyal-94316930b
+👋 Hi, I'm Saniya Koyal<br><br><br>🎓 BE Data Science Student (3rd Year) at Anjuman-I-Islam's Kalsekar Technical Campus<br><br>💻 Passionate about Data Science, Machine Learning, and Data Analytics<br><br>🌱 Currently learning Python, SQL, Machine Learning, and Data Visualization<br><br>🔭 Working on academic and personal Data Science projects<br><br>🎯 Seeking internship opportunities to gain industry experience<br><br>📫 Email: saniyakoyal2006@gmail.com<br><br>💼 LinkedIn: linkedin.com/in/saniya-koyal-94316930b
 
 
 ## 🌐 Socials:
